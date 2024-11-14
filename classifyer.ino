@@ -1,5 +1,6 @@
 //#include "types.h"
-#include "peak_detection.h"
+//#include "peak_detection.h"
+#include "repetition_count.h"
 
 #include <Adafruit_LSM6DS3TRC.h>
 #include <TensorFlowLite.h>
